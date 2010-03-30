@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<to>Jasonhuber+jhuberdevry@gmail.com</to>
+  <ErrorFrom>jasonhuber@gmail.com</ErrorFrom>
+  <ErrorTo>6025786091@txt.att.net</ErrorTo>
+  <interval>60</interval>
+  <smtpserver>smtp.west.cox.net</smtpserver>
+</config>
